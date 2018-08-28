@@ -281,3 +281,5 @@ That's all.
 ## Credits
 
 Credits for this code go to [https://github.com/thtrieu](https://github.com/thtrieu). I've merely created a wrapper to get people started.
+
+For fixes for common errors and environment setup - https://keponk.wordpress.com/2017/12/07/siraj-darkflow/
